@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">892406368974-jsobkbdbmn8gguvmkvpqm8o2caclsflk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">892406368974</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrhbaRlxJIsboY1cd0xHzLhG-UTb5y5t0</string>
+    <string name="google_app_id" translatable="false">1:892406368974:android:1b524970e92bc49ff65e9f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrhbaRlxJIsboY1cd0xHzLhG-UTb5y5t0</string>
+    <string name="google_storage_bucket" translatable="false">attendance-system-6eb95.appspot.com</string>
+    <string name="project_id" translatable="false">attendance-system-6eb95</string>
+</resources>

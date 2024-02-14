@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "892406368974",
+    "project_id": "attendance-system-6eb95",
+    "storage_bucket": "attendance-system-6eb95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892406368974:android:6f073bb436fa60f0f65e9f",
+        "android_client_info": {
+          "package_name": "com.demo.FaceNet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892406368974-c4e6hrls4llrij84dhu4e47vjmauflaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.FaceNet",
+            "certificate_hash": "ba205beca40d465adf7ab810384cca123ebe0ce1"
+          }
+        },
+        {
+          "client_id": "892406368974-jsobkbdbmn8gguvmkvpqm8o2caclsflk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhbaRlxJIsboY1cd0xHzLhG-UTb5y5t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892406368974-jsobkbdbmn8gguvmkvpqm8o2caclsflk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892406368974:android:a47dc2982dad730df65e9f",
+        "android_client_info": {
+          "package_name": "com.techneai.geo_attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892406368974-afg7u7sis85tnjn675pnre25md2d5dj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techneai.geo_attendance_system",
+            "certificate_hash": "b3afe30a261aa3665ff39d6385dad3051085dc3a"
+          }
+        },
+        {
+          "client_id": "892406368974-jsobkbdbmn8gguvmkvpqm8o2caclsflk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhbaRlxJIsboY1cd0xHzLhG-UTb5y5t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892406368974-jsobkbdbmn8gguvmkvpqm8o2caclsflk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892406368974:android:1b524970e92bc49ff65e9f",
+        "android_client_info": {
+          "package_name": "com.techneai.geo_attendance_system_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892406368974-n7v2ugstm01vt3orf5r8eu1r7tampdpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techneai.geo_attendance_system_admin",
+            "certificate_hash": "ba205beca40d465adf7ab810384cca123ebe0ce1"
+          }
+        },
+        {
+          "client_id": "892406368974-jsobkbdbmn8gguvmkvpqm8o2caclsflk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhbaRlxJIsboY1cd0xHzLhG-UTb5y5t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892406368974-jsobkbdbmn8gguvmkvpqm8o2caclsflk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892406368974:android:0da0f67c3a6d85e4f65e9f",
+        "android_client_info": {
+          "package_name": "com.techneai.geo_attendance_system_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892406368974-dju0nvm5ds7ddcoh31u7mfra25cfqjm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techneai.geo_attendance_system_user",
+            "certificate_hash": "ba205beca40d465adf7ab810384cca123ebe0ce1"
+          }
+        },
+        {
+          "client_id": "892406368974-jsobkbdbmn8gguvmkvpqm8o2caclsflk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhbaRlxJIsboY1cd0xHzLhG-UTb5y5t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892406368974-jsobkbdbmn8gguvmkvpqm8o2caclsflk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

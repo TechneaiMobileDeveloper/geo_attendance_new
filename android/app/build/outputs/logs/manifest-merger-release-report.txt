@@ -1,0 +1,794 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:1:1-82:12
+INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:1:1-82:12
+INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:1:1-82:12
+INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:1:1-82:12
+MERGED from [:platform_device_id] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/platform_device_id/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-32:12
+MERGED from [:path_provider_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:tflite_flutter] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/tflite_flutter/intermediates/merged_manifest/release/AndroidManifest.xml:17:1-22:12
+MERGED from [:wakelock] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/wakelock/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_mlkit_face_detection] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/google_mlkit_face_detection/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_mlkit_commons] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/google_mlkit_commons/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/connectivity/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:search_choices] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/search_choices/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:fluttertoast] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/fluttertoast/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-33:12
+MERGED from [:external_path] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/external_path/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:camera_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/camera_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-10:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/connectivity_plus/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-28:12
+MERGED from [:permission_handler_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/device_info/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoding_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geocoding_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:android_alarm_manager_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/android_alarm_manager_plus/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/package_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/device_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/techneai/.gradle/caches/transforms-3/5f328efa6af3a0b667f73c47de2e951e/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/techneai/.gradle/caches/transforms-3/4d88c33f76e8400fd27cc572a52be15a/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/techneai/.gradle/caches/transforms-3/bf3fbc72c61dc546fae71eced3efe38d/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mlkit:face-detection:16.1.5] /Users/techneai/.gradle/caches/transforms-3/3b2527b197ccc5983b778b1b652025d5/transformed/jetified-face-detection-16.1.5/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/techneai/.gradle/caches/transforms-3/09eee00a7cc22f6382f7eab8a9379f27/transformed/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/techneai/.gradle/caches/transforms-3/d45d16f138e434740309eb0523cbf128/transformed/jetified-vision-common-17.1.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/techneai/.gradle/caches/transforms-3/e48330140018be9ecfb61b20ff1c74ca/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/techneai/.gradle/caches/transforms-3/b0a3197a896fadd83b05642731309964/transformed/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/techneai/.gradle/caches/transforms-3/08515b22695308925d42220c2cb0dc96/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/techneai/.gradle/caches/transforms-3/a4dfa4522fa11181e40d8dbc31163c34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/techneai/.gradle/caches/transforms-3/a9306d30e84d0b0c4e15c5d976df2ca4/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.7.2] /Users/techneai/.gradle/caches/transforms-3/8b4a6b648a79d86313dfb25caf92c44b/transformed/jetified-activity-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] /Users/techneai/.gradle/caches/transforms-3/cf2e26fa0beaac4b9bd5a38d67f1e076/transformed/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/fc1d636e76ad62ab627a4db830d4e41f/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/techneai/.gradle/caches/transforms-3/d75d61ce0ba58a85a577218b846244cc/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/techneai/.gradle/caches/transforms-3/25104fd34cf21180fe7b595e38261475/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/techneai/.gradle/caches/transforms-3/be74b39c33efcdbe7ec6a67643c2b276/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/79f5ba3c249b94ce2ccb50c02b0b174b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/techneai/.gradle/caches/transforms-3/53d50a4574412cbb39be94b949a6b501/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/techneai/.gradle/caches/transforms-3/703239a68376843bdba95dc98df57f01/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/techneai/.gradle/caches/transforms-3/1495e976aececf40751b3b5c49e75edb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/techneai/.gradle/caches/transforms-3/968c9f0d57898ee3fb755b7cca9c46bf/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/techneai/.gradle/caches/transforms-3/c96bc82ebe8df3f0afd807bfa1a9407f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/techneai/.gradle/caches/transforms-3/15f1d7649f9938ecd37ce22cfd419aa6/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/techneai/.gradle/caches/transforms-3/04e0f107f910b0055aa0b4287b43416a/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/techneai/.gradle/caches/transforms-3/b864368c82d06f38bb4b138eb3c33c6c/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/techneai/.gradle/caches/transforms-3/77ceb9e832fc901a1d7e4e0400df6af1/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/techneai/.gradle/caches/transforms-3/d0e24a932bdaca5087593c7fe5003b02/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/techneai/.gradle/caches/transforms-3/be3fc0cb494211e1db1443119bff9a38/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/techneai/.gradle/caches/transforms-3/d802aeda3ae86e4e5e4e765f1ee608f5/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/techneai/.gradle/caches/transforms-3/38c455d985d1cf2ba4a60109b027af9e/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/techneai/.gradle/caches/transforms-3/bcebb1abfa049108af9ef2c6a1966a98/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/techneai/.gradle/caches/transforms-3/6e4baf0f7045e98f7541de34d29abc02/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/techneai/.gradle/caches/transforms-3/d756c7c09aa01a8db96eac72166f3d5a/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/techneai/.gradle/caches/transforms-3/e788eb751f378f7cefebff387e71cac3/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/techneai/.gradle/caches/transforms-3/ac03d28dad7472a8e9de6f2dc82e6d48/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/techneai/.gradle/caches/transforms-3/4d3d57b7accae329d3dbd45ea94a7c02/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/techneai/.gradle/caches/transforms-3/55796ae6ec364e6e2390c46840991098/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/techneai/.gradle/caches/transforms-3/c286c2f999acde4ba95160453e7da935/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/techneai/.gradle/caches/transforms-3/59b6943ea8584ea04951ff6321cf1c50/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/techneai/.gradle/caches/transforms-3/f80d4e650cee5e338a47064918e2bf41/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/techneai/.gradle/caches/transforms-3/a43d0967218d3bf265e6a474213b29c6/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:1:1-82:12
+INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:1:1-82:12
+INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:1:1-82:12
+	package
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:2:5-49
+		INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:1:1-82:12
+		INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:1:1-82:12
+		INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:search_choices] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/search_choices/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [:search_choices] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/search_choices/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-79
+MERGED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-81
+MERGED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-10:38
+MERGED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-10:38
+	android:maxSdkVersion
+		ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-35
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:9:5-85
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:9:22-82
+uses-feature#android.hardware.camera.any
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:10:5-64
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:10:19-61
+uses-permission#android.permission.CAMERA
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:11:5-65
+MERGED from [:camera_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/camera_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-65
+MERGED from [:camera_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/camera_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:12:5-81
+MERGED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-81
+MERGED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-81
+MERGED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-81
+MERGED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:13:5-68
+MERGED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-68
+MERGED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:13:22-65
+application
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:15:5-81:19
+MERGED from [:geolocator_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:geolocator_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-30:19
+MERGED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-30:19
+MERGED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-31:19
+MERGED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-31:19
+MERGED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-26:19
+MERGED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-26:19
+MERGED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-16:19
+MERGED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-16:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/techneai/.gradle/caches/transforms-3/bf3fbc72c61dc546fae71eced3efe38d/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/techneai/.gradle/caches/transforms-3/bf3fbc72c61dc546fae71eced3efe38d/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/techneai/.gradle/caches/transforms-3/09eee00a7cc22f6382f7eab8a9379f27/transformed/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/techneai/.gradle/caches/transforms-3/09eee00a7cc22f6382f7eab8a9379f27/transformed/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/techneai/.gradle/caches/transforms-3/d45d16f138e434740309eb0523cbf128/transformed/jetified-vision-common-17.1.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/techneai/.gradle/caches/transforms-3/d45d16f138e434740309eb0523cbf128/transformed/jetified-vision-common-17.1.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/techneai/.gradle/caches/transforms-3/e48330140018be9ecfb61b20ff1c74ca/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/techneai/.gradle/caches/transforms-3/e48330140018be9ecfb61b20ff1c74ca/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/techneai/.gradle/caches/transforms-3/08515b22695308925d42220c2cb0dc96/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/techneai/.gradle/caches/transforms-3/08515b22695308925d42220c2cb0dc96/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/techneai/.gradle/caches/transforms-3/a4dfa4522fa11181e40d8dbc31163c34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/techneai/.gradle/caches/transforms-3/a4dfa4522fa11181e40d8dbc31163c34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/79f5ba3c249b94ce2ccb50c02b0b174b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/79f5ba3c249b94ce2ccb50c02b0b174b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/techneai/.gradle/caches/transforms-3/b864368c82d06f38bb4b138eb3c33c6c/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/techneai/.gradle/caches/transforms-3/b864368c82d06f38bb4b138eb3c33c6c/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/techneai/.gradle/caches/transforms-3/bcebb1abfa049108af9ef2c6a1966a98/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/techneai/.gradle/caches/transforms-3/bcebb1abfa049108af9ef2c6a1966a98/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/techneai/.gradle/caches/transforms-3/55796ae6ec364e6e2390c46840991098/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/techneai/.gradle/caches/transforms-3/55796ae6ec364e6e2390c46840991098/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/techneai/.gradle/caches/transforms-3/a43d0967218d3bf265e6a474213b29c6/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/techneai/.gradle/caches/transforms-3/a43d0967218d3bf265e6a474213b29c6/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:18:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:16:9-46
+	android:largeHeap
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:17:9-33
+	android:icon
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:20:9-43
+	android:usesCleartextTraffic
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:19:9-44
+meta-data#com.google.mlkit.vision.DEPENDENCIES
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:21:9-23:45
+	android:value
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:23:13-42
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:22:13-64
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:24:9-26:71
+	android:value
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:26:13-68
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:25:13-58
+activity#com.techneai.geo_attendance_system.MainActivity
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:28:9-57:20
+	android:launchMode
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:30:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:34:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:35:13-55
+	android:exported
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:32:13-36
+	android:configChanges
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:33:13-163
+	android:theme
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:53:13-56:29
+action#android.intent.action.MAIN
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:55:27-74
+service#io.flutter.plugins.androidalarmmanager.AlarmService
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:61:9-64:39
+	android:exported
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:64:13-36
+	android:permission
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:63:13-69
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:62:13-79
+receiver#io.flutter.plugins.androidalarmmanager.AlarmBroadcastReceiver
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:66:9-68:39
+	android:exported
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:68:13-36
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:67:13-89
+receiver#io.flutter.plugins.androidalarmmanager.RebootBroadcastReceiver
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:69:9-76:20
+	android:enabled
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:71:13-35
+	android:exported
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:72:13-36
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:70:13-90
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:73:13-75:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:74:17-79
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:74:25-76
+meta-data#flutterEmbedding
+ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:78:9-80:33
+	android:value
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:80:13-30
+	android:name
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml:79:13-44
+uses-sdk
+INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+MERGED from [:platform_device_id] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/platform_device_id/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:platform_device_id] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/platform_device_id/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:tflite_flutter] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/tflite_flutter/intermediates/merged_manifest/release/AndroidManifest.xml:20:5-44
+MERGED from [:tflite_flutter] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/tflite_flutter/intermediates/merged_manifest/release/AndroidManifest.xml:20:5-44
+MERGED from [:wakelock] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/wakelock/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/wakelock/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_mlkit_face_detection] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/google_mlkit_face_detection/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_mlkit_face_detection] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/google_mlkit_face_detection/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_mlkit_commons] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/google_mlkit_commons/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_mlkit_commons] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/google_mlkit_commons/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/connectivity/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/connectivity/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:search_choices] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/search_choices/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:search_choices] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/search_choices/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/fluttertoast/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/fluttertoast/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:external_path] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/external_path/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:external_path] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/external_path/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:camera_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/camera_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:camera_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/camera_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/connectivity_plus/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/connectivity_plus/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:6:5-44
+MERGED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:6:5-44
+MERGED from [:permission_handler_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/device_info/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/device_info/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoding_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geocoding_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoding_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geocoding_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:android_alarm_manager_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/android_alarm_manager_plus/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:android_alarm_manager_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/android_alarm_manager_plus/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/package_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/package_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/device_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/device_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/techneai/.gradle/caches/transforms-3/5f328efa6af3a0b667f73c47de2e951e/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/techneai/.gradle/caches/transforms-3/5f328efa6af3a0b667f73c47de2e951e/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/techneai/.gradle/caches/transforms-3/4d88c33f76e8400fd27cc572a52be15a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/techneai/.gradle/caches/transforms-3/4d88c33f76e8400fd27cc572a52be15a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/techneai/.gradle/caches/transforms-3/bf3fbc72c61dc546fae71eced3efe38d/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/techneai/.gradle/caches/transforms-3/bf3fbc72c61dc546fae71eced3efe38d/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:face-detection:16.1.5] /Users/techneai/.gradle/caches/transforms-3/3b2527b197ccc5983b778b1b652025d5/transformed/jetified-face-detection-16.1.5/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:face-detection:16.1.5] /Users/techneai/.gradle/caches/transforms-3/3b2527b197ccc5983b778b1b652025d5/transformed/jetified-face-detection-16.1.5/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/techneai/.gradle/caches/transforms-3/09eee00a7cc22f6382f7eab8a9379f27/transformed/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/techneai/.gradle/caches/transforms-3/09eee00a7cc22f6382f7eab8a9379f27/transformed/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/techneai/.gradle/caches/transforms-3/d45d16f138e434740309eb0523cbf128/transformed/jetified-vision-common-17.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/techneai/.gradle/caches/transforms-3/d45d16f138e434740309eb0523cbf128/transformed/jetified-vision-common-17.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/techneai/.gradle/caches/transforms-3/e48330140018be9ecfb61b20ff1c74ca/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/techneai/.gradle/caches/transforms-3/e48330140018be9ecfb61b20ff1c74ca/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/techneai/.gradle/caches/transforms-3/b0a3197a896fadd83b05642731309964/transformed/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/techneai/.gradle/caches/transforms-3/b0a3197a896fadd83b05642731309964/transformed/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/techneai/.gradle/caches/transforms-3/08515b22695308925d42220c2cb0dc96/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/techneai/.gradle/caches/transforms-3/08515b22695308925d42220c2cb0dc96/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/techneai/.gradle/caches/transforms-3/a4dfa4522fa11181e40d8dbc31163c34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/techneai/.gradle/caches/transforms-3/a4dfa4522fa11181e40d8dbc31163c34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/techneai/.gradle/caches/transforms-3/a9306d30e84d0b0c4e15c5d976df2ca4/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/techneai/.gradle/caches/transforms-3/a9306d30e84d0b0c4e15c5d976df2ca4/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.7.2] /Users/techneai/.gradle/caches/transforms-3/8b4a6b648a79d86313dfb25caf92c44b/transformed/jetified-activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] /Users/techneai/.gradle/caches/transforms-3/8b4a6b648a79d86313dfb25caf92c44b/transformed/jetified-activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0] /Users/techneai/.gradle/caches/transforms-3/cf2e26fa0beaac4b9bd5a38d67f1e076/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/techneai/.gradle/caches/transforms-3/cf2e26fa0beaac4b9bd5a38d67f1e076/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/fc1d636e76ad62ab627a4db830d4e41f/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/fc1d636e76ad62ab627a4db830d4e41f/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/techneai/.gradle/caches/transforms-3/d75d61ce0ba58a85a577218b846244cc/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/techneai/.gradle/caches/transforms-3/d75d61ce0ba58a85a577218b846244cc/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/techneai/.gradle/caches/transforms-3/25104fd34cf21180fe7b595e38261475/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/techneai/.gradle/caches/transforms-3/25104fd34cf21180fe7b595e38261475/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/techneai/.gradle/caches/transforms-3/be74b39c33efcdbe7ec6a67643c2b276/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/techneai/.gradle/caches/transforms-3/be74b39c33efcdbe7ec6a67643c2b276/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/79f5ba3c249b94ce2ccb50c02b0b174b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/79f5ba3c249b94ce2ccb50c02b0b174b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/techneai/.gradle/caches/transforms-3/53d50a4574412cbb39be94b949a6b501/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/techneai/.gradle/caches/transforms-3/53d50a4574412cbb39be94b949a6b501/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/techneai/.gradle/caches/transforms-3/703239a68376843bdba95dc98df57f01/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/techneai/.gradle/caches/transforms-3/703239a68376843bdba95dc98df57f01/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/techneai/.gradle/caches/transforms-3/1495e976aececf40751b3b5c49e75edb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/techneai/.gradle/caches/transforms-3/1495e976aececf40751b3b5c49e75edb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/techneai/.gradle/caches/transforms-3/968c9f0d57898ee3fb755b7cca9c46bf/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/techneai/.gradle/caches/transforms-3/968c9f0d57898ee3fb755b7cca9c46bf/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/techneai/.gradle/caches/transforms-3/c96bc82ebe8df3f0afd807bfa1a9407f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/techneai/.gradle/caches/transforms-3/c96bc82ebe8df3f0afd807bfa1a9407f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/techneai/.gradle/caches/transforms-3/15f1d7649f9938ecd37ce22cfd419aa6/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/techneai/.gradle/caches/transforms-3/15f1d7649f9938ecd37ce22cfd419aa6/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/techneai/.gradle/caches/transforms-3/04e0f107f910b0055aa0b4287b43416a/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/techneai/.gradle/caches/transforms-3/04e0f107f910b0055aa0b4287b43416a/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/techneai/.gradle/caches/transforms-3/b864368c82d06f38bb4b138eb3c33c6c/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/techneai/.gradle/caches/transforms-3/b864368c82d06f38bb4b138eb3c33c6c/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/techneai/.gradle/caches/transforms-3/77ceb9e832fc901a1d7e4e0400df6af1/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/techneai/.gradle/caches/transforms-3/77ceb9e832fc901a1d7e4e0400df6af1/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/techneai/.gradle/caches/transforms-3/d0e24a932bdaca5087593c7fe5003b02/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/techneai/.gradle/caches/transforms-3/d0e24a932bdaca5087593c7fe5003b02/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/techneai/.gradle/caches/transforms-3/be3fc0cb494211e1db1443119bff9a38/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/techneai/.gradle/caches/transforms-3/be3fc0cb494211e1db1443119bff9a38/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/techneai/.gradle/caches/transforms-3/d802aeda3ae86e4e5e4e765f1ee608f5/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/techneai/.gradle/caches/transforms-3/d802aeda3ae86e4e5e4e765f1ee608f5/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/techneai/.gradle/caches/transforms-3/38c455d985d1cf2ba4a60109b027af9e/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/techneai/.gradle/caches/transforms-3/38c455d985d1cf2ba4a60109b027af9e/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/techneai/.gradle/caches/transforms-3/bcebb1abfa049108af9ef2c6a1966a98/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/techneai/.gradle/caches/transforms-3/bcebb1abfa049108af9ef2c6a1966a98/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/techneai/.gradle/caches/transforms-3/6e4baf0f7045e98f7541de34d29abc02/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/techneai/.gradle/caches/transforms-3/6e4baf0f7045e98f7541de34d29abc02/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/techneai/.gradle/caches/transforms-3/d756c7c09aa01a8db96eac72166f3d5a/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/techneai/.gradle/caches/transforms-3/d756c7c09aa01a8db96eac72166f3d5a/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/techneai/.gradle/caches/transforms-3/e788eb751f378f7cefebff387e71cac3/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/techneai/.gradle/caches/transforms-3/e788eb751f378f7cefebff387e71cac3/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/techneai/.gradle/caches/transforms-3/ac03d28dad7472a8e9de6f2dc82e6d48/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/techneai/.gradle/caches/transforms-3/ac03d28dad7472a8e9de6f2dc82e6d48/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/techneai/.gradle/caches/transforms-3/4d3d57b7accae329d3dbd45ea94a7c02/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/techneai/.gradle/caches/transforms-3/4d3d57b7accae329d3dbd45ea94a7c02/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/techneai/.gradle/caches/transforms-3/55796ae6ec364e6e2390c46840991098/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/techneai/.gradle/caches/transforms-3/55796ae6ec364e6e2390c46840991098/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/techneai/.gradle/caches/transforms-3/c286c2f999acde4ba95160453e7da935/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/techneai/.gradle/caches/transforms-3/c286c2f999acde4ba95160453e7da935/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/techneai/.gradle/caches/transforms-3/59b6943ea8584ea04951ff6321cf1c50/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/techneai/.gradle/caches/transforms-3/59b6943ea8584ea04951ff6321cf1c50/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/techneai/.gradle/caches/transforms-3/f80d4e650cee5e338a47064918e2bf41/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/techneai/.gradle/caches/transforms-3/f80d4e650cee5e338a47064918e2bf41/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/techneai/.gradle/caches/transforms-3/a43d0967218d3bf265e6a474213b29c6/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/techneai/.gradle/caches/transforms-3/a43d0967218d3bf265e6a474213b29c6/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/techneai/AndroidStudioProjects/geo_attendance_system/android/app/src/main/AndroidManifest.xml
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-12:56
+	android:enabled
+		ADDED from [:geolocator_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-35
+	android:exported
+		ADDED from [:geolocator_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-53
+	android:name
+		ADDED from [:geolocator_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-77
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-74
+receiver#com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver
+ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-91
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-97
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-29:20
+	android:exported
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-28:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:25:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:25:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:26:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:26:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:27:25-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/connectivity/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-79
+MERGED from [:connectivity_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/connectivity_plus/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-79
+MERGED from [:connectivity_plus] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/connectivity_plus/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:connectivity] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/connectivity/intermediates/merged_manifest/release/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:22-74
+service#id.flutter.flutter_background_service.BackgroundService
+ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-16:44
+	android:enabled
+		ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-36
+	android:stopWithTask
+		ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-41
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-83
+receiver#id.flutter.flutter_background_service.WatchdogReceiver
+ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:18:9-21:39
+	android:enabled
+		ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-82
+receiver#id.flutter.flutter_background_service.BootReceiver
+ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:22:9-30:20
+	android:enabled
+		ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:24:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-78
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_background_service_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-29:29
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:17-67
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/camera_android/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:camera_android] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/camera_android/intermediates/merged_manifest/release/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_MEDIA_VIDEO
+ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:13:22-72
+provider#com.crazecoder.openfile.FileProvider
+ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-25:20
+	android:grantUriPermissions
+		ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-47
+	android:authorities
+		ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-88
+	android:exported
+		ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
+	tools:replace
+		ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-48
+	android:name
+		ADDED from [:open_filex] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/open_filex/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-64
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-15:56
+	android:enabled
+		ADDED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-35
+	android:exported
+		ADDED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-37
+	android:foregroundServiceType
+		ADDED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [:location] /Users/techneai/AndroidStudioProjects/geo_attendance_system/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-71
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/techneai/.gradle/caches/transforms-3/09eee00a7cc22f6382f7eab8a9379f27/transformed/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/techneai/.gradle/caches/transforms-3/d45d16f138e434740309eb0523cbf128/transformed/jetified-vision-common-17.1.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/techneai/.gradle/caches/transforms-3/d45d16f138e434740309eb0523cbf128/transformed/jetified-vision-common-17.1.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/techneai/.gradle/caches/transforms-3/09eee00a7cc22f6382f7eab8a9379f27/transformed/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/techneai/.gradle/caches/transforms-3/09eee00a7cc22f6382f7eab8a9379f27/transformed/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/techneai/.gradle/caches/transforms-3/09eee00a7cc22f6382f7eab8a9379f27/transformed/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/techneai/.gradle/caches/transforms-3/09eee00a7cc22f6382f7eab8a9379f27/transformed/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/techneai/.gradle/caches/transforms-3/09eee00a7cc22f6382f7eab8a9379f27/transformed/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.1.0] /Users/techneai/.gradle/caches/transforms-3/d45d16f138e434740309eb0523cbf128/transformed/jetified-vision-common-17.1.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.1.0] /Users/techneai/.gradle/caches/transforms-3/d45d16f138e434740309eb0523cbf128/transformed/jetified-vision-common-17.1.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.1.0] /Users/techneai/.gradle/caches/transforms-3/d45d16f138e434740309eb0523cbf128/transformed/jetified-vision-common-17.1.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/techneai/.gradle/caches/transforms-3/ec54a89d3b4396ec91274f839ceb8ca6/transformed/jetified-common-18.1.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/techneai/.gradle/caches/transforms-3/e48330140018be9ecfb61b20ff1c74ca/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/techneai/.gradle/caches/transforms-3/e48330140018be9ecfb61b20ff1c74ca/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/techneai/.gradle/caches/transforms-3/e48330140018be9ecfb61b20ff1c74ca/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/techneai/.gradle/caches/transforms-3/e48330140018be9ecfb61b20ff1c74ca/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/techneai/.gradle/caches/transforms-3/a4dfa4522fa11181e40d8dbc31163c34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/techneai/.gradle/caches/transforms-3/a4dfa4522fa11181e40d8dbc31163c34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/techneai/.gradle/caches/transforms-3/a4dfa4522fa11181e40d8dbc31163c34/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/techneai/.gradle/caches/transforms-3/b864368c82d06f38bb4b138eb3c33c6c/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/techneai/.gradle/caches/transforms-3/b864368c82d06f38bb4b138eb3c33c6c/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/techneai/.gradle/caches/transforms-3/bcebb1abfa049108af9ef2c6a1966a98/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/techneai/.gradle/caches/transforms-3/bcebb1abfa049108af9ef2c6a1966a98/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/techneai/.gradle/caches/transforms-3/dcdef82bba7de28f2b22ecaadfa9fcfa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/79f5ba3c249b94ce2ccb50c02b0b174b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/79f5ba3c249b94ce2ccb50c02b0b174b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/79f5ba3c249b94ce2ccb50c02b0b174b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/79f5ba3c249b94ce2ccb50c02b0b174b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/79f5ba3c249b94ce2ccb50c02b0b174b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/techneai/.gradle/caches/transforms-3/79f5ba3c249b94ce2ccb50c02b0b174b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+permission#com.techneai.geo_attendance_system_admin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+uses-permission#com.techneai.geo_attendance_system_admin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/techneai/.gradle/caches/transforms-3/e2c09f87b9cf6950503ce8d5af51a1a8/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/techneai/.gradle/caches/transforms-3/b864368c82d06f38bb4b138eb3c33c6c/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/techneai/.gradle/caches/transforms-3/b864368c82d06f38bb4b138eb3c33c6c/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/techneai/.gradle/caches/transforms-3/b864368c82d06f38bb4b138eb3c33c6c/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/techneai/.gradle/caches/transforms-3/3bb24c4546d11a0357ae3adeb5a9d7c5/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techneai/.gradle/caches/transforms-3/a331ccda982e9905d966b964bcec60b9/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/techneai/.gradle/caches/transforms-3/daad81a07a8d4f689ae45041846f81d3/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132

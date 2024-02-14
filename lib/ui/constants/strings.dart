@@ -1,0 +1,9 @@
+const String fence_id = "geofence_app_id";
+const double radius_geofence = 150;
+const isMultiuser = true;
+const String geofence_port_name = "geofence_port";
+const String alerady_punched_in = "already punched in";
+const String alerady_punched_out = "alerady puched out";
+const String punch_in_successfully = "punch in successfully";
+const String punch_out_successfully = "punch out successfully";
+const String already_end_punch_today = "already end todays punches";
